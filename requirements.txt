@@ -1,0 +1,32 @@
+# Core API framework
+fastapi
+uvicorn[standard]
+
+# OpenAI Agents SDK + OpenAI client
+openai>=1.0.0
+openai-agents
+
+# LangChain memory
+langchain
+langchain-openai
+langchain-classic
+
+# Sentiment analysis
+vaderSentiment
+
+# Web scraping tools
+requests
+google-play-scraper
+app-store-scraper
+
+# DuckDuckGo search
+duckduckgo-search
+
+# Reddit
+praw
+
+# Environment variables
+python-dotenv
+
+# Streaming support for FastAPI
+sse-starlette
