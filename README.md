@@ -2,11 +2,11 @@
 
 # 🔍 Valid8
 
-
 **A market research and product validation AI agent that tells you if your idea is worth building — before you build it.**
 
-
 > Founders spend months building things nobody wants. Valid8 gives you **sentiment analysis** signals from real people on Reddit, Hacker News, and cross-platform sources in seconds. Not marketing fluff. Not fabricated stats. Actual demand evidence.
+
+https://github.com/user-attachments/assets/ded53f11-a03e-4418-a277-f9f92c320f2a
 
 </div>
 
